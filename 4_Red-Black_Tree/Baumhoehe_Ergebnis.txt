@@ -1,0 +1,1 @@
+Höhe des Baumes nach dem Einfügen aufsteigender Werte: 24

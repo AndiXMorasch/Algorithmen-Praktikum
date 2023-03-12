@@ -1,0 +1,8 @@
+Sortierdauer 100.000 Elemente:						32 Millisek.
+Sortierdauer 1.000.000 Elemente:					151 Millisek.
+Sortierdauer 5.000.000 Elemente:					841 Millisek.
+Sortierdauer 100.000 (sortierte) Elemente:				10363 Millisek.
+Sortierdauer 100.000 Elemente (mithilfe Median of Three):		16 Millisek.	
+Sortierdauer 1.000.000 Elemente (mithilfe Median of three):		56 Millisek.
+Sortierdauer 5.000.000 Elemente (mithilfe Median of three):		329 Millisek.
+Sortierdauer 100.000 (sortierte) Elemente (mithilfe Median of three):	2 Millisek.
